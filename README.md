@@ -13,13 +13,14 @@
 - TempC_Min (1) (2)
 - VWC_Avg1, 2
 - EC_Avg1, 2
-- T_Avg1, 2
+- (target) T_Avg1, 2
+- (target) CO2_Avg
 
 ### 생육 데이터("22-23-growth")
 - 2022.10.21 ~ 2023.02.09 동안 수집된 6가지 변수
-- 엽수
-- 높이
-- 엽병 길이
-- 엽장
-- 엽폭
-- 관부 직경
+- LeafNumber 엽수
+- PlantHeight 높이
+- PetioleLength 엽병 길이
+- LeafLength 엽장
+- LeafWidth 엽폭
+- (target) CrownDiameter 관부 직경
