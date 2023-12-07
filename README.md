@@ -8,12 +8,12 @@
 - PAR_Den_Max (1) ~ (5)
 - PAR_Den_Min (1) ~ (5)
 - PAR_Tot_Tot (1) ~ (5)
-- TempC_Avg (1) ~ (2)
+- TempC_Avg (1) ~ (2) 온실 내부 온도
 - TempC_Max (1) ~ (2)
 - TempC_Min (1) (2)
-- VWC_Avg1, 2
+- VWC_Avg1, 2 토양수분 함량(volume water content)
 - EC_Avg1, 2
-- (target) T_Avg1, 2
+- (target) T_Avg1, 2 토양온도
 - (target) CO2_Avg
 
 ### 생육 데이터("22-23-growth")
